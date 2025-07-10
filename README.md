@@ -39,10 +39,10 @@ This C++ project simulates an amusement park system where users can book rides, 
    ./amusement_park
     ```
 6. **Choose from the Menu:**
-   -View rides
-   -Book tickets
-   -Calculate price
-   -Exit the system
+   - View rides
+   - Book tickets
+   - Calculate price
+   - Exit the system
 
 Future Enhancements:
 - **Add Login/Signup System**
